@@ -1,6 +1,6 @@
 // procesamiento_gpu.cu
 #include <cuda_runtime.h>
-#include <vector>
+#include <vector>ñ
 #include <iostream>
 #include <opencv2/opencv.hpp>
 
